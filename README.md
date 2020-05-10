@@ -1,0 +1,2 @@
+# TechnicalBlogApplication
+Spring MVC App
